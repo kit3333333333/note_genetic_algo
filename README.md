@@ -6,7 +6,7 @@
 4.反覆循環，直至達到指定世代結束
 
 
-Reference:
+Reference:  
 https://gist.github.com/Vini2/bd22b36ddc69c5327097921f5118b709#file-simpledemoga-java  
 https://blog.csdn.net/Mr_Lowbee/article/details/86566949  
 https://blog.csdn.net/littlely_ll/article/details/72625312  
