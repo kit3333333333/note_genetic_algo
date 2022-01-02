@@ -3,7 +3,8 @@
 1.隨機生成w個序列，每個序列有k個int，均為0/1，代表選取了哪些feature  
 2.根據各序列的x建立模型並對測試集預測，求得fitness(ROC/MSE/ACC)   
 3.根據Fitness，從高至底，取m個parents(或以fitness之加權機率抽取parents等方法)做crossover生成次代(次代有機率發生mutation)  
-4.反覆循環，直至達到指定世代結束
+4.反覆循環，直至達到指定世代結束  
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFECV.html
 
 
 Reference:  
